@@ -2,21 +2,41 @@ class Solution {
 public:
     int countMajoritySubarrays(vector<int>& nums, int target) {
         int n = nums.size();
-        vector<int> prefCount(n + 1, 0);
-        prefCount[0] = nums[0] == target ? 1 : 0;
-        for (int i = 0; i < n; i++) {
-            prefCount[i + 1] = prefCount[i] + (nums[i] == target ? 1 : 0);
-        }
-        int ans = 0;
-        for (int i = 0; i < n; i++) {
-            for (int j = i; j < n; j++) {
-                int currCount = prefCount[j+1] - prefCount[i];
-                int size = (j - i + 1) / 2;
-                if (currCount > size) {
-                    ans++;
-                }
+        vector<int> prefCount(2*n + 1, 0);
+        prefCount[n] = 1;
+        int cnt = n;
+        long long preSum = 0;
+        long long ans = 0;
+
+        for(int x: nums) {
+            if(x == target) {
+                preSum += prefCount[cnt];
+
+                cnt++;
+                prefCount[cnt]++;
             }
+            else {
+                cnt--;
+
+                preSum -= prefCount[cnt];
+                prefCount[cnt]++;
+            }
+            ans += preSum;
         }
+        // prefCount[0] = nums[0] == target ? 1 : 0;
+        // for (int i = 0; i < n; i++) {
+        //     prefCount[i + 1] = prefCount[i] + (nums[i] == target ? 1 : 0);
+        // }
+        // int ans = 0;
+        // for (int i = 0; i < n; i++) {
+        //     for (int j = i; j < n; j++) {
+        //         int currCount = prefCount[j+1] - prefCount[i];
+        //         int size = (j - i + 1) / 2;
+        //         if (currCount > size) {
+        //             ans++;
+        //         }
+        //     }
+        // }
         return ans;
     }
 };
