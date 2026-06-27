@@ -47,5 +47,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## String
+|  |
+| ------- |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1234-replace-the-substring-for-balanced-string) |
 <!---LeetCode Topics End-->
