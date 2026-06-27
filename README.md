@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -45,4 +47,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
