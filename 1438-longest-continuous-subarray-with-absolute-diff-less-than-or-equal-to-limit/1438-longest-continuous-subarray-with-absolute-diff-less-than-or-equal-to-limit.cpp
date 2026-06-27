@@ -5,8 +5,6 @@ public:
 
         int left = 0;
 
-        int ans = 0;
-
         map<int,int>mp;
 
         for(int right = 0; right < n; right++) {
@@ -22,8 +20,7 @@ public:
                 }
                 left++;
             }
-            ans = max(ans,right-left+1);
         }
-        return ans;
+        return n - left;
     }
 };
