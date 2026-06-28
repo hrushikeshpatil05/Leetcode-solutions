@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1314-matrix-block-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1208-get-equal-substrings-within-budget](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1314-matrix-block-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [1314-matrix-block-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1314-matrix-block-sum) |
 ## Design
 |  |
 | ------- |
