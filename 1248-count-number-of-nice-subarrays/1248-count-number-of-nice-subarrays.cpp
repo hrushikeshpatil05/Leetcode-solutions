@@ -27,22 +27,28 @@ public:
         
         int n = nums.size();
 
-        unordered_map<int,int>mp;
-        mp[0] = 1;
+        // unordered_map<int,int>mp;
+        // mp[0] = 1;
         int currCt = 0;
         int ans = 0;
+        int left = 0;
+        int initialCt = 0;
         for(int i=0;i<n;i++) {
             if(nums[i]%2 != 0) {
                 currCt++;
             }
 
-            int requiredCt = currCt - k;
+            if(currCt == k) {
+                initialCt = 0;
 
-            if(mp.find(requiredCt) != mp.end()) {
-                ans += mp[requiredCt];
+                while(currCt == k) {
+                    currCt -= nums[left]%2;
+                    left++;
+                    initialCt++;
+                }
             }
+            ans += initialCt;
             
-            mp[currCt]++;
         }
         return ans;
 
