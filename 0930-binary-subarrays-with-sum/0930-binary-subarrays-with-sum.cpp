@@ -3,7 +3,7 @@ public:
     int numSubarraysWithSum(vector<int>& nums, int goal) {
         int n = nums.size();
 
-        map<int,int>count;
+        unordered_map<int,int>count;
 
         count[0] = 1;
 
