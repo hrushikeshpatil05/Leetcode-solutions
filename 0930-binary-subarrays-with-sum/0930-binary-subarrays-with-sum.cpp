@@ -1,25 +1,25 @@
 class Solution {
 public:
-    int findTotalSubArrays(vector<int>& nums, int goal) {
-        if (goal < 0) return 0;
+    int numSubarraysWithSum(vector<int>& nums, int goal) {
         int n = nums.size();
-        int ans = 0;
 
-        int left = 0, right = 0;
-        int sum = 0;
-        while (right < n) {
-            sum += nums[right];
-            while (sum > goal) {
-                sum -= nums[left];
-                left++;
+        map<int,int>count;
+
+        count[0] = 1;
+
+        int ans = 0;
+        int currSum = 0;
+
+        for(int i=0;i<n;i++) {
+            currSum += nums[i];
+
+            int requiredSum = currSum - goal;
+
+            if(count.find(requiredSum) != count.end()) {
+                ans += count[requiredSum];
             }
-            
-            ans += (right - left + 1);
-            right++;
+            count[currSum]++;
         }
         return ans;
-    }
-    int numSubarraysWithSum(vector<int>& nums, int goal) {
-        return findTotalSubArrays(nums,goal) - findTotalSubArrays(nums,goal-1);
     }
 };
