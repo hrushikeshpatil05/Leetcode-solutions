@@ -31,6 +31,9 @@ public:
         noOfPaths += dfs(root->right, targetSum, currSum, mp);
 
         mp[currSum]--;
+        if(mp[currSum] == 0) {
+            mp.erase(currSum);
+        }
         return noOfPaths;
     }
     int pathSum(TreeNode* root, int targetSum) {
