@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0304-range-sum-query-2d-immutable](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0523-continuous-subarray-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1208-get-equal-substrings-within-budget](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0437-path-sum-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
