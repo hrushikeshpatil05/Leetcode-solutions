@@ -3,23 +3,24 @@ public:
     int trap(vector<int>& nums) {
         int n = nums.size();
 
-        vector<int>leftMax(n,0),rightMax(n,0);
-        int currMax = nums[0];
-        for(int i=0;i<n;i++) {
-            currMax = max(currMax,nums[i]);
-            leftMax[i] = currMax;
-        }
-
-        currMax = nums[n-1];
-        for(int i=n-1;i>=0;i--) {
-            currMax = max(currMax,nums[i]);
-            rightMax[i] = currMax;
-        }
+        int leftMax = nums[0];
+        int rightMax = nums[n-1];
 
         int ans = 0;
+        int left = 0, right = n-1;
 
-        for(int i=0;i<n;i++) {
-            ans += (min(leftMax[i],rightMax[i]) - nums[i]);
+        while(left < right) {
+            leftMax = max(leftMax, nums[left]);
+            rightMax = max(rightMax,nums[right]);
+
+            if(leftMax < rightMax) {
+                ans += (leftMax - nums[left]);
+                left++;
+            }
+            else {
+                ans += (rightMax - nums[right]);
+                right--;
+            }
         }
 
         return ans;
