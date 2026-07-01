@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Matrix
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
