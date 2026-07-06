@@ -1,28 +1,29 @@
 class Solution {
 public:
-    int trap(vector<int>& nums) {
-        int n = nums.size();
+    int trap(vector<int>& height) {
+        int n = height.size();
 
-        int leftMax = nums[0];
-        int rightMax = nums[n-1];
-
+        stack<int>st;
         int ans = 0;
-        int left = 0, right = n-1;
 
-        while(left < right) {
-            leftMax = max(leftMax, nums[left]);
-            rightMax = max(rightMax,nums[right]);
+        for(int i = 0; i < n; i++) {
+            while(!st.empty() && height[st.top()] < height[i]) {
+                
+                int mid = st.top();
+                st.pop();
 
-            if(leftMax < rightMax) {
-                ans += (leftMax - nums[left]);
-                left++;
+                if(st.empty()) break;
+
+                int left = st.top();
+                int right = i;
+
+                int width = right - left - 1;
+
+                int temp = min(height[left], height[right]) - height[mid];
+                ans += width*temp;
             }
-            else {
-                ans += (rightMax - nums[right]);
-                right--;
-            }
+            st.push(i);
         }
-
         return ans;
     }
 };
