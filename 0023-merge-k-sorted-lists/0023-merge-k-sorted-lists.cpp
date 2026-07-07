@@ -30,9 +30,6 @@ public:
         while(!pq.empty()) {
             auto top = pq.top();
             pq.pop();
-            if(!top) {
-                continue;
-            }
             if(top && top->next) {
                 pq.push(top->next);
             }
