@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
