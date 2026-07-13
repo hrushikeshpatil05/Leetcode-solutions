@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0304-range-sum-query-2d-immutable](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0704-binary-search](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0704-binary-search) |
