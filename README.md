@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1314-matrix-block-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1314-matrix-block-sum) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0704-binary-search](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1208-get-equal-substrings-within-budget](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 ## Queue
 |  |
