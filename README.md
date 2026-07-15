@@ -185,14 +185,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0437-path-sum-iii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0437-path-sum-iii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0437-path-sum-iii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0437-path-sum-iii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0437-path-sum-iii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0437-path-sum-iii) |
 ## Two Pointers
 |  |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0739-daily-temperatures) |
