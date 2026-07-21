@@ -22,7 +22,7 @@ public:
 
         while(!q.empty()) {
             int size = q.size();
-
+            level++;
             while(size--) {
                 auto top = q.front();
                 q.pop();
@@ -31,7 +31,7 @@ public:
                     for(char c = 'a'; c <= 'z'; c++) {
                         curr[i] = c;
                         if(curr == endWord) {
-                            return level + 1;
+                            return level;
                         }
                         if(mp.find(curr) != mp.end()) {
                             q.push(curr);
@@ -40,7 +40,6 @@ public:
                     }
                 }
             }
-            level++;
         }
         return 0;
     }
