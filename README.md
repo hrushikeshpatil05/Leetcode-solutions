@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1094-car-pooling) |
+| [1162-as-far-from-land-as-possible](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1314-matrix-block-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0907-sum-of-subarray-minimums](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1162-as-far-from-land-as-possible](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0994-rotting-oranges](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1314-matrix-block-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1314-matrix-block-sum) |
 ## Design
 |  |
@@ -306,4 +309,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0994-rotting-oranges](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 <!---LeetCode Topics End-->
