@@ -6,18 +6,19 @@ public:
         if(idx == word.size()) {
             return true;
         }
+        auto temp = board[i][j];
         board[i][j] = '#';
-        bool ans = false;
         for(int k=0;k<4;k++) {
             int nr = i + dir[k][0];
             int nc = j + dir[k][1];
             if(nr >= 0 && nc >= 0 && nr < m && nc < n && board[nr][nc] == word[idx]) {
-                ans = ans || solve(nr,nc,board,word,idx+1);
+                if(solve(nr,nc,board,word,idx+1)) {
+                    return true;
+                }
             }
         }
-        idx--;
-        board[i][j] = word[idx];
-        return ans;
+        board[i][j] = temp;
+        return false;
     }
     bool exist(vector<vector<char>>& board, string word) {
         m = board.size(), n = board[0].size();
