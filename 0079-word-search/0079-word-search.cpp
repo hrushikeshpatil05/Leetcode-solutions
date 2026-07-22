@@ -12,7 +12,7 @@ public:
             int nr = i + dir[k][0];
             int nc = j + dir[k][1];
             if(nr >= 0 && nc >= 0 && nr < m && nc < n && board[nr][nc] == word[idx] && !vis[nr][nc]) {
-                ans = ans | solve(nr,nc,board,word,idx+1,vis);
+                ans = ans || solve(nr,nc,board,word,idx+1,vis);
             }
         }
         idx--;
