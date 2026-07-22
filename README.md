@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0057-insert-interval) |
+| [0079-word-search](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0130-surrounded-regions](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0304-range-sum-query-2d-immutable](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0130-surrounded-regions) |
@@ -323,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0695-max-area-of-island) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
