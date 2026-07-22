@@ -3,9 +3,6 @@ public:
     int m,n;
     int dir[4][2] = {{-1,0},{0,-1},{1,0},{0,1}};
     int dfs(int i, int j, vector<vector<int>>& grid) {
-        if(i>=m || i<0 || j<0 || j>=n) {
-            return 0;
-        }
 
         grid[i][j] = 0;
 
