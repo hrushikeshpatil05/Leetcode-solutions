@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0435-non-overlapping-intervals](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0127-word-ladder) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0078-subsets) |
