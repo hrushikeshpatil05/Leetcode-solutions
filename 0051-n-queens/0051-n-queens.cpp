@@ -2,38 +2,6 @@ class Solution {
 public:
     bool isValid(vector<string>& temp, int row, int col, int n) {
         int currCol = col, currRow = row;
-        // while(currRow >= 0 && currCol < n) {
-        //     if(temp[currRow][currCol] == 'Q') {
-        //         return false;
-        //     }
-        //     currRow--;
-        //     currCol++;
-        // }
-        // currCol = col;
-        // currRow = row;
-        // while(currCol < n) {
-        //     if(temp[currRow][currCol] == 'Q') {
-        //         return false;
-        //     }
-        //     currCol++;
-        // }
-        // currCol = col;
-        // while(currRow < n && currCol < n) {
-        //     if(temp[currRow][currCol] == 'Q') {
-        //         return false;
-        //     }
-        //     currRow++;
-        //     currCol++;
-        // }
-        // currRow = row;
-        // currCol = col;
-        // while(currRow < n) {
-        //     if(temp[currRow][currCol] == 'Q') {
-        //         return false;
-        //     }
-        //     currRow++;
-        // }
-        // currRow = row;
         while(currRow < n && currCol >= 0) {
             if(temp[currRow][currCol] == 'Q') {
                 return false;
@@ -57,14 +25,6 @@ public:
             currRow--;
             currCol--;
         }
-        // currRow = row;
-        // currCol = col;
-        // while(currRow >= 0) {
-        //     if(temp[currRow][currCol] == 'Q') {
-        //         return false;
-        //     }
-        //     currRow--;
-        // }
         return true;
     }
     void solve(int col,int n, vector<vector<string>>& ans, vector<string>& temp) {
