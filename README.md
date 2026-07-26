@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0198-house-robber) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -371,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
