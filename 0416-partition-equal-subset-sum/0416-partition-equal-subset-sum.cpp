@@ -28,21 +28,19 @@ public:
             return false;
         }
         int target = sum / 2;
-        vector<vector<bool>> dp(n + 1, vector<bool>(target + 1, false));
 
-        for(int i=0;i<=n;i++) {
-            dp[i][0] = true;
-        }
+        vector<bool>nextRow(target+1,false);
+        nextRow[0] = true;
         for(int i=n-1;i>=0;i--) {
             for(int j=target;j>=0;j--) {
-                bool nottake = dp[i + 1][j];
+                bool nottake = nextRow[j];
                 bool take = false;
                 if(j-nums[i] >= 0) {
-                    take = dp[i + 1][j - nums[i]];
+                    take = nextRow[j - nums[i]];
                 }
-                dp[i][j] = (take || nottake);
+                nextRow[j] = (take || nottake);
             }
         }
-        return dp[0][target];
+        return nextRow[target];
     }
 };
