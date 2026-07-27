@@ -21,6 +21,8 @@ public:
             if (i == m - 1 && j == n - 1) {
                 return d;
             }
+
+            if (d > dist[i][j]) continue; 
             for (int k = 0; k < 4; k++) {
                 int nr = i + dir[k][0];
                 int nc = j + dir[k][1];
