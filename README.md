@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1514-path-with-maximum-probability](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1094-car-pooling) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1514-path-with-maximum-probability](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Ordered Set
 |  |
@@ -392,8 +394,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1514-path-with-maximum-probability](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1514-path-with-maximum-probability](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
