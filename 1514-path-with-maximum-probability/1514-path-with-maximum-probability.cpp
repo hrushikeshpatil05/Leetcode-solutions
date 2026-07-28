@@ -28,6 +28,10 @@ public:
                 return p;
             }
 
+            if(prob[node] > p) {
+                continue;
+            }
+
             for(auto x:adj[node]) {
                 // cout<<p<<" "<<x.second<<endl;
                 double newProb = p * x.second;
