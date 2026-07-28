@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1314-matrix-block-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1314-matrix-block-sum) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1514-path-with-maximum-probability](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1094-car-pooling) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1514-path-with-maximum-probability](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1314-matrix-block-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1314-matrix-block-sum) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Design
 |  |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
@@ -394,10 +398,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
