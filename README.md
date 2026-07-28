@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0704-binary-search](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0704-binary-search) |
+| [0778-swim-in-rising-water](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0778-swim-in-rising-water](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0695-max-area-of-island](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1254-number-of-closed-islands](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -359,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -371,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1254-number-of-closed-islands](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Backtracking
