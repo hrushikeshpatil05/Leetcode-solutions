@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1514-path-with-maximum-probability](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 ## Ordered Set
 |  |
 | ------- |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 ## Shortest Path
 |  |
 | ------- |
@@ -416,4 +418,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 <!---LeetCode Topics End-->
