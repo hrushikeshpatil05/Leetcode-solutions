@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0907-sum-of-subarray-minimums](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0994-rotting-oranges](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0078-subsets) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Memoization
 |  |
 | ------- |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
@@ -423,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
