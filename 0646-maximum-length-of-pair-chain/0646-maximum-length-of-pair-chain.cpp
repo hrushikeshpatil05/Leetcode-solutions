@@ -19,7 +19,12 @@ public:
         return dp[i][prev+1] = max(take,nottake);
     }
     int findLongestChain(vector<vector<int>>& pairs) {
-        sort(pairs.begin(),pairs.end());
+        sort(pairs.begin(),pairs.end(),[](const vector<int>& a,vector<int>& b) {
+            if(a[0] == b[0]) {
+                return a[1] < b[1];
+            }
+            return a[0] < b[0];
+        });
         n = pairs.size();
 
         vector<vector<int>>dp(n,vector<int>(n+1,-1));
