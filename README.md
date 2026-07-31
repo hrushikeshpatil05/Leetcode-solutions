@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0695-max-area-of-island](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0704-binary-search) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -435,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
