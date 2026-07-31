@@ -35,22 +35,22 @@ public:
         // vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
         // return solve(0,-1,envelopes,dp);
 
-        vector<int> heights;
-        for (auto h : envelopes) {
-            heights.push_back(h[1]);
-        }
+        // vector<int> heights;
+        // for (auto h : envelopes) {
+        //     heights.push_back(h[1]);
+        // }
 
         vector<int> tails;
 
-        for (auto h : heights) {
-            auto it = lower_bound(tails.begin(), tails.end(), h);
+        for (auto h : envelopes) {
+            auto it = lower_bound(tails.begin(), tails.end(), h[1]);
 
             if (it == tails.end()) {
-                tails.push_back(h);
+                tails.push_back(h[1]);
             }
 
             else {
-                *it = h;
+                *it = h[1];
             }
         }
         return tails.size();
