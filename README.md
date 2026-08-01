@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1514-path-with-maximum-probability](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1208-get-equal-substrings-within-budget](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1631-path-with-minimum-effort](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 ## Queue
 |  |
 | ------- |
@@ -450,4 +452,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 <!---LeetCode Topics End-->
