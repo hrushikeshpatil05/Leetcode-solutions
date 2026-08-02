@@ -1,46 +1,39 @@
 class Solution {
 public:
     int n;
-    // bool solve(int i, vector<int>& nums, int target, vector<vector<int>>& dp) {
-    //     if (target == 0) {
-    //         return true;
-    //     }
-    //     if (target < 0 || i >= n) {
-    //         return false;
-    //     }
 
-    //     if (dp[i][target] != -1) {
-    //         return dp[i][target];
-    //     }
-
-    //     bool nottake = solve(i + 1, nums, target, dp);
-    //     bool take = solve(i + 1, nums, target - nums[i], dp);
-
-    //     return dp[i][target] = (take || nottake);
-    // }
-    bool canPartition(vector<int>& nums) {
-        n = nums.size();
-        int sum = 0;
-        for (auto x : nums) {
-            sum += x;
+    bool solve(int i,vector<int>& nums,int sum,vector<vector<int>>& dp) {
+        if(sum == 0) {
+            return true;
         }
-        if (sum % 2 != 0) {
+
+        if(i>=n) {
             return false;
         }
-        int target = sum / 2;
 
-        vector<bool>nextRow(target+1,false);
-        nextRow[0] = true;
-        for(int i=n-1;i>=0;i--) {
-            for(int j=target;j>=0;j--) {
-                bool nottake = nextRow[j];
-                bool take = false;
-                if(j-nums[i] >= 0) {
-                    take = nextRow[j - nums[i]];
-                }
-                nextRow[j] = (take || nottake);
-            }
+        if(dp[i][sum] != -1) {
+            return dp[i][sum];
         }
-        return nextRow[target];
+        
+        bool nottake = solve(i+1,nums,sum,dp);
+        bool take = false;
+
+        if(sum - nums[i] >= 0) {
+            take = solve(i+1,nums,sum-nums[i],dp);
+        }
+
+        return dp[i][sum] = (nottake | take);
+    }
+    bool canPartition(vector<int>& nums) {
+        n = nums.size();
+
+        int sum = accumulate(nums.begin(),nums.end(),0);
+        if(sum%2 != 0) {
+            return false;
+        }
+
+        vector<vector<int>>dp(n+1,vector<int>(1e5+1,-1));
+
+        return solve(0,nums,sum/2,dp);
     }
 };
