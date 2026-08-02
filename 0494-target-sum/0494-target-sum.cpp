@@ -1,23 +1,25 @@
 class Solution {
 public:
     int n;
-    int solve(int i,int sum,vector<int>& nums,int target,vector<vector<int>>& dp) {
-        if(i==n && sum==target) {
-            return 1;
-        }
-        if(i>=n) {
-            return 0;
-        }
-        if(dp[i][sum + 1000] != -1) {
-            return dp[i][sum + 1000];
-        }
-        int plus = solve(i+1,sum+nums[i],nums,target,dp);
-        int minus = solve(i+1,sum-nums[i],nums,target,dp);
-        return dp[i][sum + 1000] = plus + minus;
-    }
     int findTargetSumWays(vector<int>& nums, int target) {
         n = nums.size();
-        vector<vector<int>>dp(n,vector<int>(2002,-1));
-        return solve(0,0,nums,target,dp);
+        int sum = accumulate(nums.begin(),nums.end(),0);
+
+        if(sum < abs(target) || (target + sum)%2 != 0) {
+            return 0;
+        }
+
+        int newT = (sum + target)/2;
+
+        vector<int>dp(newT+1,0);
+        dp[0] = 1;
+        // return solve(0,0,nums,target,dp);
+        int ans = 0;
+        for(auto num : nums) {
+            for(int j=newT;j>=num;j--) {
+                dp[j] = dp[j] + dp[j-num];
+            }
+        }
+        return dp[newT];
     }
 };
