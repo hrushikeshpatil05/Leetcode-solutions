@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
