@@ -17,20 +17,17 @@ public:
     //     return dp[i][j] = down + right;
     // }
     int uniquePaths(int m, int n) {
-        vector<vector<int>>dp(m,vector<int>(n,0));
-        for(int i=0;i<m;i++) {
-            dp[i][n-1] = 1;
-        }
-        for(int j=0;j<n;j++) {
-            dp[m-1][j] = 1;
-        }
+        vector<int>nextRow(n,1);
+        vector<int>currRow(n,0);
+        currRow[n-1] = 1;
 
         for(int i=m-2;i>=0;i--) {
             for(int j=n-2;j>=0;j--) {
-                dp[i][j] = dp[i+1][j] + dp[i][j+1];
+                currRow[j] = nextRow[j] + currRow[j+1];
             }
+            nextRow = currRow;
         }
-        return dp[0][0];
+        return nextRow[0];
         // return solve(0,0,m,n);
     }
 };
