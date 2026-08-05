@@ -1,22 +1,6 @@
 class Solution {
 public:
     int m,n;
-    int solve(int i,int j,vector<vector<int>>& grid,vector<vector<int>>& dp) {
-        if(i>=m || j>=n || grid[i][j] == 1) {
-            return 0;
-        }
-        if(i == m-1 && j == n-1) {
-            return 1;
-        }
-        if(dp[i][j] != -1) {
-            return dp[i][j];
-        }
-
-        int down = solve(i+1,j,grid,dp);
-        int right = solve(i,j+1,grid,dp);
-
-        return dp[i][j] = down + right;
-    }
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
         m = obstacleGrid.size();
         n = obstacleGrid[0].size();
@@ -25,8 +9,34 @@ public:
             return 0;
         }
 
-        vector<vector<int>>dp(m,vector<int>(n,-1));
+        vector<vector<long long>>dp(m,vector<long long>(n,0));
 
-        return solve(0,0,obstacleGrid,dp);
+        for(int i=m-1;i>=0;i--) {
+            if(obstacleGrid[i][n-1] == 1) {
+                break;
+            }
+            dp[i][n-1] = 1;
+        }
+
+        for(int j=n-1;j>=0;j--) {
+            if(obstacleGrid[m-1][j] == 1) {
+                break;
+            }
+            dp[m-1][j] = 1;
+            // cout<<dp[m-1][j]<<endl;
+        }
+
+        for(int i=m-2;i>=0;i--) {
+            for(int j=n-2;j>=0;j--) {
+                if(obstacleGrid[i][j] == 1) {
+                    dp[i][j] = 0;
+                }
+                else {
+                    dp[i][j] = dp[i+1][j] + dp[i][j+1];
+                }
+            }
+        }
+
+        return dp[0][0];
     }
 };
