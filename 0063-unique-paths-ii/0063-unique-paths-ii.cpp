@@ -9,34 +9,34 @@ public:
             return 0;
         }
 
-        vector<vector<long long>>dp(m,vector<long long>(n,0));
+        // vector<vector<long long>>dp(m,vector<long long>(n,0));
+        vector<long long>nextRow(n,0);
+        vector<long long>currRow(n,0);
 
-        for(int i=m-1;i>=0;i--) {
-            if(obstacleGrid[i][n-1] == 1) {
-                break;
-            }
-            dp[i][n-1] = 1;
+        if(m>=2 && n >= 1&& obstacleGrid[m-2][n-1] == 0) {
+            currRow[n-1] = 1;
         }
 
         for(int j=n-1;j>=0;j--) {
             if(obstacleGrid[m-1][j] == 1) {
                 break;
             }
-            dp[m-1][j] = 1;
-            // cout<<dp[m-1][j]<<endl;
+            nextRow[j] = 1;
         }
 
         for(int i=m-2;i>=0;i--) {
+            currRow[n-1] = obstacleGrid[i][n-1] == 1 ? 0 : nextRow[n-1];
             for(int j=n-2;j>=0;j--) {
                 if(obstacleGrid[i][j] == 1) {
-                    dp[i][j] = 0;
+                    currRow[j] = 0;
                 }
                 else {
-                    dp[i][j] = dp[i+1][j] + dp[i][j+1];
+                    currRow[j] = nextRow[j] + currRow[j+1];
                 }
             }
+            nextRow = currRow;
         }
 
-        return dp[0][0];
+        return nextRow[0];
     }
 };
