@@ -16,14 +16,10 @@ public:
                 maxArea = 1;
             }
         }
-        if(m>=2) {
-            if(matrix[m-2][n-1] == '1') {
-                maxArea = 1;
-            }
-        }
 
         for(int i=m-2;i>=0;i--) {
             currRow[n-1] = matrix[i][n-1] == '1' ? 1 : 0;
+            maxArea = max(maxArea,currRow[n-1]);
             for(int j=n-2;j>=0;j--) {
                 int right = currRow[j+1];
                 int down = nextRow[j];
