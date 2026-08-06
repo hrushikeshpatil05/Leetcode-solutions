@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0322-coin-change) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0221-maximal-square](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
