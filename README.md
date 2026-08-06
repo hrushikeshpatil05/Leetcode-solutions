@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0091-decode-ways) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0304-range-sum-query-2d-immutable](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
