@@ -5,7 +5,6 @@ public:
         m = word1.size(), n = word2.size();
 
         vector<int>next(n+1,0);
-        vector<int>curr(n+1,0);
 
         for(int j=0;j<=n;j++) {
             next[j] = n-j;
