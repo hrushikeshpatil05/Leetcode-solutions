@@ -2,31 +2,19 @@ class Solution {
 public:
     int n;
     int dp[1001][1001];
-    bool solve(int i, int j, string& s) {
-        if (i >= j) {
-            return true;
-        }
-
-        if (dp[i][j] != -1) {
-            return dp[i][j];
-        }
-
-        if (s[i] == s[j]) {
-            return dp[i][j] = solve(i + 1, j - 1, s);
-        }
-
-        return dp[i][j] = false;
-    }
     int countSubstrings(string s) {
         n = s.size();
-        memset(dp, -1, sizeof(dp));
+        memset(dp, 0, sizeof(dp));
 
         int ans = 0;
 
         for (int i = 0; i < n; i++) {
-            for (int j = i; j < n; j++) {
-                if (solve(i, j, s)) {
+            dp[i][i] = 1;
+            ans++;
+            for (int j = 0; j < i; j++) {
+                if(s[i] == s[j] && (i-j<=2 || dp[j+1][i-1])) {
                     ans++;
+                    dp[j][i] = 1;
                 }
             }
         }
