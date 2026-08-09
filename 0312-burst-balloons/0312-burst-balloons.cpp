@@ -1,37 +1,29 @@
 class Solution {
 public:
     int n;
-    int dp[301][301];
-    int solve(int i,int j,vector<int>& nums) {
-        if(i>j) {
-            return 0;
-        }
-
-        if(dp[i][j] != -1) {
-            return dp[i][j];
-        }
-
-        int maxSum = 0;
-        for(int k=i;k<=j;k++) {
-            int curSum = nums[i-1]*nums[k]*nums[j+1];
-
-            int remSum = solve(i,k-1,nums) + solve(k+1,j,nums);
-            maxSum = max(maxSum,curSum + remSum);
-        }
-        return dp[i][j] = maxSum;
-
-    }
     int maxCoins(vector<int>& nums) {
         n = nums.size();
         vector<int>temp = {1};
-
-        memset(dp,-1,sizeof(dp));
 
         for(int i=0;i<n;i++) {
             temp.push_back(nums[i]);
         }
         temp.push_back(1);
 
-        return solve(1,n,temp);
+        vector<vector<int>>dp(n+2,vector<int>(n+2,0));
+
+        for(int left=n;left>=1;left--) {
+            for(int right=left;right<=n;right++) {
+                for(int k=left;k<=right;k++) {
+                    int currSum = temp[left-1]*temp[k]*temp[right+1];
+
+                    int remSum = dp[left][k-1] + dp[k+1][right];
+
+                    dp[left][right] = max(dp[left][right],currSum + remSum);
+                }
+            }
+        }
+
+        return dp[1][n];
     }
 };
