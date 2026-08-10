@@ -2,28 +2,38 @@ class Solution {
 public:
     int n;
     int dp[41][41];
-    int solve(int i,int j,vector<int>& arr) {
-        if(i>=j) {
-            return 0;
-        }
-
-        if(dp[i][j] != -1) {
-            return dp[i][j];
-        }
-        int sum = 1e8;
-        for(int k=i;k<j;k++) {
-            int leftMaxEl = *max_element(arr.begin()+i,arr.begin()+k+1);
-            int rightMaxEl = *max_element(arr.begin()+k+1,arr.begin()+j+1);
-
-            int curSum = leftMaxEl*rightMaxEl + solve(i,k,arr) + solve(k+1,j,arr);
-
-            sum = min(sum,curSum);
-        }
-        return dp[i][j] = sum;
-    }
     int mctFromLeafValues(vector<int>& arr) {
         n = arr.size();
-        memset(dp,-1,sizeof(dp));
-        return solve(0,n-1,arr);
+        memset(dp, 0, sizeof(dp));
+
+        vector<vector<int>> maxi(n, vector<int>(n, 0));
+        for (int i = 0; i < n; i++) {
+            maxi[i][i] = arr[i];
+            for (int j = i + 1; j < n; j++) {
+                maxi[i][j] = max(maxi[i][j - 1], arr[j]);
+            }
+        }
+
+        for (int i = n - 1; i >= 0; i--) {
+            for (int j = i; j < n; j++) {
+
+                if (i == j) {
+                    dp[i][j] = 0;
+                    continue; 
+                }
+
+                dp[i][j] = INT_MAX;
+                for (int k = i; k < j; k++) {
+                    int currentRootCost = maxi[i][k] * maxi[k + 1][j];
+                    int leftTreeCost = dp[i][k];
+                    int rightTreeCost = dp[k + 1][j];
+
+                    int curSum = currentRootCost + leftTreeCost + rightTreeCost;
+                    
+                    dp[i][j] = min(dp[i][j], curSum);
+                }
+            }
+        }
+        return dp[0][n - 1];
     }
 };
