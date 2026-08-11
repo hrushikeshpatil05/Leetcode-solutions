@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -554,4 +558,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
