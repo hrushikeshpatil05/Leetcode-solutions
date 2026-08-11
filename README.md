@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1049-last-stone-weight-ii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1049-last-stone-weight-ii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1094-car-pooling](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1094-car-pooling) |
 | [1208-get-equal-substrings-within-budget](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
