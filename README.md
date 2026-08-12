@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0474-ones-and-zeroes) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0523-continuous-subarray-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -565,4 +567,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+## Minimax
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
