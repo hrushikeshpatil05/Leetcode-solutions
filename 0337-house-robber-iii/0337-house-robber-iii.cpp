@@ -11,25 +11,22 @@
  */
 class Solution {
 public:
-    int solve(TreeNode* root, bool isPrevRobbed,map<pair<TreeNode*,bool>,int>& mp) {
+    pair<int,int> solve(TreeNode* root) {
         if(!root) {
-            return 0;
+            return {0,0};
         }
 
-        if(mp.find({root,isPrevRobbed}) != mp.end()) {
-            return mp[{root,isPrevRobbed}];
-        }
+        pair<int,int> leftChoices = solve(root->left);
+        pair<int,int> rightChoices = solve(root->right);
 
-        int nottake = solve(root->left,false,mp) + solve(root->right,false,mp);
-        int take = 0;
-        if(!isPrevRobbed) {
-            take = root->val + solve(root->left,true,mp) + solve(root->right,true,mp);
+        int robCurrent = root->val + leftChoices.second + rightChoices.second;
 
-        }
-        return mp[{root,isPrevRobbed}] = max(take,nottake);
+        int leaveCurrent = max(leftChoices.first,leftChoices.second) + max(rightChoices.first,rightChoices.second);
+
+        return {robCurrent,leaveCurrent};
     }
     int rob(TreeNode* root) {
-        map<pair<TreeNode*,bool>,int>mp;
-        return solve(root,false,mp);
+        pair<int,int>result = solve(root);
+        return max(result.first,result.second);
     }
 };
