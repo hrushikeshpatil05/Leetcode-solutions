@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1254-number-of-closed-islands](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -590,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Minimax
 |  |
 | ------- |
@@ -604,4 +609,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
