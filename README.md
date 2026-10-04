@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1092-shortest-common-supersequence](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1208-get-equal-substrings-within-budget](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Stack
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -610,4 +614,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
