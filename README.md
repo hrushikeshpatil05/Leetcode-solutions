@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0127-word-ladder) |
+| [0301-remove-invalid-parentheses](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0301-remove-invalid-parentheses](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
