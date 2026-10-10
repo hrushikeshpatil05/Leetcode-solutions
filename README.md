@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Queue
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 ## Ordered Set
 |  |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1094-car-pooling) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/hrushikeshpatil05/Leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Stack
 |  |
 | ------- |
